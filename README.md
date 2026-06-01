@@ -7,6 +7,7 @@
 ## 项目结构
 
 ├── PC/          Python 信号处理 + CNN 训练
+
 ├── Android/     Android  app 采集 + 实时推理 
 
 ## 实验数据
