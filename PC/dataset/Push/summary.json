@@ -1,0 +1,352 @@
+[
+  {
+    "file": "Push_001.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 10.1
+  },
+  {
+    "file": "Push_002.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 98,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 9.1
+  },
+  {
+    "file": "Push_003.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 7.8
+  },
+  {
+    "file": "Push_004.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 98,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 25.1
+  },
+  {
+    "file": "Push_005.pcm",
+    "duration_s": 2.0,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 17.7
+  },
+  {
+    "file": "Push_006.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 96,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 14.6
+  },
+  {
+    "file": "Push_007.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 19.9
+  },
+  {
+    "file": "Push_008.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 17.8
+  },
+  {
+    "file": "Push_009.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 98,
+    "best_range_cm": 2.9,
+    "max_doppler_hz": 3.0
+  },
+  {
+    "file": "Push_010.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 22.1
+  },
+  {
+    "file": "Push_011.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 16.3
+  },
+  {
+    "file": "Push_012.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 21.1
+  },
+  {
+    "file": "Push_013.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 98,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 17.6
+  },
+  {
+    "file": "Push_014.pcm",
+    "duration_s": 2.0,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 9.3
+  },
+  {
+    "file": "Push_015.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 13.7
+  },
+  {
+    "file": "Push_016.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 25.6
+  },
+  {
+    "file": "Push_017.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 98,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 11.6
+  },
+  {
+    "file": "Push_018.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 96,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 19.2
+  },
+  {
+    "file": "Push_019.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 19.5
+  },
+  {
+    "file": "Push_020.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 96,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 8.0
+  },
+  {
+    "file": "Push_021.pcm",
+    "duration_s": 2.0,
+    "n_chirps": 98,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 19.6
+  },
+  {
+    "file": "Push_022.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 13.5
+  },
+  {
+    "file": "Push_023.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 10.8
+  },
+  {
+    "file": "Push_024.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 97,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 12.7
+  },
+  {
+    "file": "Push_025.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 98,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 23.5
+  },
+  {
+    "file": "Push_026.pcm",
+    "duration_s": 2.0,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 17.4
+  },
+  {
+    "file": "Push_027.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 16.6
+  },
+  {
+    "file": "Push_028.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 16.3
+  },
+  {
+    "file": "Push_029.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 22.0
+  },
+  {
+    "file": "Push_030.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 17.5
+  },
+  {
+    "file": "Push_031.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 20.2
+  },
+  {
+    "file": "Push_032.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 97,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 21.8
+  },
+  {
+    "file": "Push_033.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 98,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 24.4
+  },
+  {
+    "file": "Push_034.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 14.8
+  },
+  {
+    "file": "Push_035.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 98,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 26.3
+  },
+  {
+    "file": "Push_036.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 13.3
+  },
+  {
+    "file": "Push_037.pcm",
+    "duration_s": 2.0,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 21.9
+  },
+  {
+    "file": "Push_038.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 22.9
+  },
+  {
+    "file": "Push_039.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 19.5
+  },
+  {
+    "file": "Push_040.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 20.7
+  },
+  {
+    "file": "Push_041.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 21.1
+  },
+  {
+    "file": "Push_042.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 23.6
+  },
+  {
+    "file": "Push_043.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 13.5
+  },
+  {
+    "file": "Push_044.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 23.0
+  },
+  {
+    "file": "Push_045.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 97,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 3.2
+  },
+  {
+    "file": "Push_046.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 17.6
+  },
+  {
+    "file": "Push_047.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 16.7
+  },
+  {
+    "file": "Push_048.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 100,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 13.9
+  },
+  {
+    "file": "Push_049.pcm",
+    "duration_s": 2.0,
+    "n_chirps": 98,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 21.0
+  },
+  {
+    "file": "Push_050.pcm",
+    "duration_s": 2.01,
+    "n_chirps": 99,
+    "best_range_cm": 0.0,
+    "max_doppler_hz": 18.4
+  }
+]

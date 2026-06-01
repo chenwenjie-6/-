@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 大文件
+dataset/*/pcm/*.pcm
+output/
+models/*.onnx
+*.pcm
+
+# 数据
+cpp_output/
+temp/

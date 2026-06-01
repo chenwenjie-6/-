@@ -1,0 +1,24 @@
+# ninja log v5
+79	4470	8015194303514361	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+0	53	0	clean	be199648373fd469
+4475	5736	8015194316078317	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+109	4378	8015204348221550	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+4386	5461	8015204358903663	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+44	5310	8015210376382644	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+5318	6703	8015210390055439	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+33	4623	8015225758088591	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+4628	6174	8015225773256063	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+27	4411	8015229251733083	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+4416	5609	8015229263437561	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+44	4361	8015268152577458	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+4371	9176	8015268198028588	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+73	5801	8015783501170903	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+5818	9373	8015783536421026	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+37	4258	8015811012158926	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+4264	5201	8015811021407425	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+46	3894	8015823600671283	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+3899	4928	8015823610564671	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+42	5715	8015828210082002	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+5736	8570	8015828237397895	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736
+21	2327	8019479580576841	CMakeFiles/ultragesture.dir/native-lib.cpp.o	1d21d89ed3dd0b7a
+2330	3985	8019479596961839	D:/AndroidProjects/UltraGesture/app/build/intermediates/cxx/Debug/542u1s32/obj/arm64-v8a/libultragesture.so	ca6dc2459f0e7736

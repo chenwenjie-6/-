@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.UltraGesture" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#42A5F5</item>
+        <item name="colorPrimaryVariant">#1E88E5</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">#1E88E5</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>

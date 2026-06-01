@@ -1,0 +1,3 @@
+D:/AndroidProjects/UltraGesture/app/.cxx/RelWithDebInfo/85d2b376/arm64-v8a/CMakeFiles/ultragesture.dir
+D:/AndroidProjects/UltraGesture/app/.cxx/RelWithDebInfo/85d2b376/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/AndroidProjects/UltraGesture/app/.cxx/RelWithDebInfo/85d2b376/arm64-v8a/CMakeFiles/rebuild_cache.dir

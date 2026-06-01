@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/AndroidProjects/UltraGesture/app/.cxx/RelWithDebInfo/85d2b376/arm64-v8a",
+  "command": "C:\\Users\\86132\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/86132/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dultragesture_EXPORTS -ID:/AndroidProjects/onnxruntime-android/headers -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\ultragesture.dir\\native-lib.cpp.o -c D:\\AndroidProjects\\UltraGesture\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\AndroidProjects\\UltraGesture\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

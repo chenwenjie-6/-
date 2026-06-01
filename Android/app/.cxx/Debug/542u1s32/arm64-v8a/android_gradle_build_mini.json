@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\AndroidProjects\\UltraGesture\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\86132\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\AndroidProjects\\UltraGesture\\app\\.cxx\\Debug\\542u1s32\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\86132\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\AndroidProjects\\UltraGesture\\app\\.cxx\\Debug\\542u1s32\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ultragesture::@6890427a1f51a3e7e1df": {
+      "artifactName": "ultragesture",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProjects\\UltraGesture\\app\\build\\intermediates\\cxx\\Debug\\542u1s32\\obj\\arm64-v8a\\libultragesture.so",
+      "runtimeFiles": []
+    }
+  }
+}

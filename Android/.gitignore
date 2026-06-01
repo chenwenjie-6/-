@@ -1,0 +1,14 @@
+# Android
+app/build/
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# 本地依赖
+app/src/main/jniLibs/
+app/src/main/assets/model.onnx
+
+# OS
+.DS_Store
+Thumbs.db
