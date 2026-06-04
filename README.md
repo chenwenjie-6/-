@@ -10,7 +10,7 @@
 
 ├── Android/     Android  app 采集 + 实时推理 
 
-##apk可在release中下载
+apk可在release中下载
 
 ## 论文
 
